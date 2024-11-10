@@ -42,3 +42,23 @@ dependencies:
   location: ^5.1.0
   google_maps_flutter: ^2.2.0
 ```
+---
+
+## ⚙️ Permissions Setup
+
+## For Android:
+   **In AndroidMenifest.xml add permissions**:
+      ```yaml
+         <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+         <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+      ```
+## For IOS:
+   **In Info.plist add permissions**:
+      ```yaml
+         <key>NSLocationWhenInUseUsageDescription</key>
+         <string>We require your location to display your current position on the map.</string>
+         <key>NSLocationAlwaysUsageDescription</key>
+         <string>We require continuous location access to track your movements.</string>
+         <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+         <string>We require location access at all times to provide accurate tracking.</string>
+      ```
