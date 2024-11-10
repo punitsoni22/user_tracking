@@ -108,6 +108,7 @@ In your Flutter project, add the API key to the `AndroidManifest.xml` and `Info.
             android:value="YOUR_API_KEY_HERE"/>
     </application>
 </manifest>
+```
 
 ## ⚙️ Permissions Setup
 ---
