@@ -45,7 +45,7 @@ dependencies:
 ---
 
 ## ⚙️ Permissions Setup
-
+---
 ## For Android:
    **In AndroidMenifest.xml add permissions**:
       ```yaml
