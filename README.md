@@ -132,3 +132,16 @@ In your Flutter project, add the API key to the `AndroidManifest.xml` and `Info.
          <string>We require location access at all times to provide accurate tracking.</string>
    ```
 
+---
+## 📞 Support & Contact
+
+If you have any issues, questions, or feedback, feel free to reach out:
+
+- 📧 **Email**: [punitsoni14476@gmail.com](mailto:punitsoni14476@gmail.com)
+- 🔗 **LinkedIn**: [@punitsoni22](https://www.linkedin.com/in/punitsoni22)
+
+---
+
+We're here to help! 🚀
+
+
